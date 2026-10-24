@@ -1,0 +1,4 @@
+{"status": "success", "data": {"series": {"id": 70533, "name": "Twin Peaks"}, "episodes": [
+  {"id": 100002, "seriesId": 70533, "name": "Traces to Nowhere", "aired": "1990-04-12", "runtime": 47, "overview": "", "image": null, "number": 2, "seasonNumber": 1},
+  {"id": 100001, "seriesId": 70533, "name": "Pilot", "aired": "1990-04-08", "runtime": 94, "overview": "The body of Laura Palmer is found.", "image": "https://artworks.thetvdb.com/banners/episodes/example-100001.jpg", "number": 1, "seasonNumber": 1}
+]}, "links": {"prev": null, "self": null, "next": null}}

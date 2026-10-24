@@ -1,0 +1,4 @@
+{"status": "success", "data": [
+  {"objectID": "series-70533", "name": "Twin Peaks", "type": "series", "tvdb_id": "70533", "year": "1990", "slug": "twin-peaks", "first_air_time": "1990-04-08", "country": "usa", "primary_language": "eng", "image_url": "https://artworks.thetvdb.com/banners/posters/example-70533.jpg", "overview": "An FBI agent investigates a murder in a small town.", "overviews": {"eng": "An FBI agent investigates a murder in a small town.", "fra": "Un agent du FBI enquête sur un meurtre."}, "translations": {"eng": "Twin Peaks", "fra": "Mystères à Twin Peaks"}, "remote_ids": [{"id": "tt0098936", "type": 2, "sourceName": "IMDB"}, {"id": "1920", "type": 12, "sourceName": "TheMovieDB.com"}]},
+  {"objectID": "person-1", "name": "Not a work", "type": "person", "tvdb_id": "1"}
+], "links": {"prev": null, "self": null, "next": null, "total_items": 2, "page_size": 10}}

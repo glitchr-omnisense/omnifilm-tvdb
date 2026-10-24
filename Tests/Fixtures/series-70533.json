@@ -1,0 +1,10 @@
+{"status": "success", "data": {"id": 70533, "name": "Twin Peaks", "slug": "twin-peaks", "image": "https://artworks.thetvdb.com/banners/posters/example-70533.jpg", "firstAired": "1990-04-08", "year": "1990", "originalCountry": "usa", "originalLanguage": "eng", "averageRuntime": 47, "overview": "An FBI agent investigates a murder in a small town.",
+ "genres": [{"id": 3, "name": "Crime"}, {"id": 4, "name": "Drama"}],
+ "remoteIds": [{"id": "tt0098936", "type": 2, "sourceName": "IMDB"}, {"id": "1920", "type": 12, "sourceName": "TheMovieDB.com"}, {"id": "Q2085", "type": 18, "sourceName": "Wikidata"}],
+ "characters": [
+   {"id": 1, "name": "Dale Cooper", "peopleId": 300001, "personName": "Kyle MacLachlan", "peopleType": "Actor", "sort": 0},
+   {"id": 2, "name": "", "peopleId": 300002, "personName": "Mark Frost", "peopleType": "Creator", "sort": 0},
+   {"id": 3, "name": "", "peopleId": 300003, "personName": "David Lynch", "peopleType": "Director", "sort": 0}
+ ],
+ "seasons": [{"id": 1, "number": 0, "type": {"type": "official"}}, {"id": 2, "number": 1, "type": {"type": "official"}}, {"id": 3, "number": 2, "type": {"type": "official"}}, {"id": 4, "number": 1, "type": {"type": "dvd"}}],
+ "translations": {"nameTranslations": [{"name": "Mystères à Twin Peaks", "language": "fra"}], "overviewTranslations": [{"overview": "Un agent du FBI enquête sur un meurtre.", "language": "fra"}]}}}
