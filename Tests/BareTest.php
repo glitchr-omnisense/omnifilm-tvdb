@@ -5,7 +5,7 @@ namespace Omnifilm\Tvdb\Tests;
 use Omnifilm\Testing\BareTestCase;
 use Omnifilm\Tvdb\TvdbProvider;
 
-/** omnifilm/tvdb's classes load with omniscient/omnifilm and Symfony's HTTP client contracts alone. */
+/** omnifilm/tvdb's classes load with omnisense/omnifilm and Symfony's HTTP client contracts alone. */
 final class BareTest extends BareTestCase
 {
     protected static function entryClass(): string
